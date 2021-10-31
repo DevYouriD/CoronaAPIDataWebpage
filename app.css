@@ -1,0 +1,20 @@
+/*OTHER DEVICES*/
+@media screen and (max-width: 768px) {
+	#navBarBlock {
+		align-items: center;
+		text-align: center;
+	}
+}
+
+/*CONTENT*/
+body {
+    background: url(resources/virus.jpg);
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    color: white;
+}
+
+.mainPageContent {
+    margin-top: 50px;
+    text-align: center;
+}
